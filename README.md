@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 * Grant - Bachelor Thesis Development Financial Support
 
 # Technical Skills
+* Python
+* Tensorflow
+* SQL
+* C++
 
 # Publications
 * 2017 Co‑Author, Sigüenza, M., Guillen, D., Arroyo, D., Cuellar, F. "Mobile Robots Development: A Case Study from Robotics Competitions and Course Projects. XXIV International Congress of Electrical, Electronic and Computer Engineering." [Link]([https://link-url-here.org](https://ieeexplore.ieee.org/document/8079703))
