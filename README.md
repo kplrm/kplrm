@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✨
 
 <!--
 **kplrm/kplrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ About me
+# 👋 About me
 👨‍🎓 Hi, I am a **Data Scientist** with a **M.Sc. in Computer Science** from KTH Royal Institute of Technology, Sweden.
 
 👨‍💻 I bring business soft skills combined with deep technical knowledge. I am specialized in **Predictive Maintenance** and **AI Consultant**. Some of the techniques that I used professionally are semi-supervised learning, autoencoders, explainable AI, and ARIMA time-series forecasting.
