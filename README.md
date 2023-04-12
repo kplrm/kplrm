@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 # 🛠️ Technical Skills
 * Python
 * Tensorflow
+* Docker
+* Elasticsearch
 * SQL
 * C++
 
